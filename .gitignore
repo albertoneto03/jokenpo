@@ -1,3 +1,5 @@
+.gitignore
+a.txt
 .PyCharmCE2019.3/
 .idea/
 venv/
